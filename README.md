@@ -12,6 +12,18 @@ Sorts the countries by their 2023 population in descending order and selects the
 Creates a horizontal bar chart showing the top 10 countries by population in 2023.
 Adds a title and labels to the x-axis and y-axis, then displays the chart.
 <img width="1217" height="768" alt="Capture d’écran (97)" src="https://github.com/user-attachments/assets/4558206c-ed02-4cea-a389-b22d9ab90f0a" />
+Creates a scatter plot to visualize the relationship between 2023 population and population density.
+Adds a title and labels to the x-axis and y-axis, then displays the chart.
+<img width="1195" height="796" alt="Capture d’écran (98)" src="https://github.com/user-attachments/assets/c9d9201d-d140-4a5c-89bc-de269dbf2c21" />
+Creates violin plots to visualize and compare the distribution of population density across different continents.
+Uses different colors for each continent, adds a title and axis labels, and displays the visualization.
+<img width="1200" height="814" alt="Capture d’écran (99)" src="https://github.com/user-attachments/assets/5db31182-96d1-4718-a716-b97196e27147" />
+Creates a box plot to compare population density distributions across continents while hiding outliers for clearer visualization.
+<img width="1216" height="755" alt="Capture d’écran (100)" src="https://github.com/user-attachments/assets/b0e5e717-d29f-4202-b94e-0a1b75f03a7d" />
+
+
+
+
 
 
 
